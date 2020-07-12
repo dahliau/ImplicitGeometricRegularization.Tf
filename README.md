@@ -1,0 +1,2 @@
+# ImplicitGeometricRegularization.Tf
+ImplicitGeometricRegularization 2d implementation using tf
